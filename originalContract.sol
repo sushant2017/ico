@@ -1,0 +1,4 @@
+KINGDOM ICO -
+Contract Address -  0x2e7865a1b1e22b21c6c398065b1f79c874832af8
+Creator Address -   0xCD3Dd58596CA3fFe3C46afF0a92F8AD2b0aFEd14
+
